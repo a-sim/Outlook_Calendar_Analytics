@@ -1,6 +1,6 @@
 # Outlook_Calendar_Analytics
 ![Python Versions](https://img.shields.io/badge/Python-3.7%2C%203.9-blue.svg)
-![Status](https://img.shields.io/badge/Status-On_time-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 This repository contains:
 
